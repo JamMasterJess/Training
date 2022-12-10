@@ -1,6 +1,6 @@
 package main
 
-import (1
+import (
 	"bufio"
 	"fmt"
 	"myapp/doctor"
