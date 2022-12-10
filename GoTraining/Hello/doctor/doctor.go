@@ -1,6 +1,6 @@
 package doctor
 
-import (1
+import (
 	"log"
 	"math/rand"
 	"regexp"
