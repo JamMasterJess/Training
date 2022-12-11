@@ -1,6 +1,6 @@
 package main
 
-import (62
+import (
 	"bufio"
 	"fmt"
 	"os"
